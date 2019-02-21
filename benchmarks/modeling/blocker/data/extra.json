@@ -1,7 +1,0 @@
-{
-	"features": [
-		{"name": "@can_block"},
-        {"name": "@distance_to_exit"},
-        {"name": "@cat_moves"}
-	]
-}
